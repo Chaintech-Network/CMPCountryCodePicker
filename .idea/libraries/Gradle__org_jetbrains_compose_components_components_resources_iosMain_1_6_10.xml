@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.compose.components:components-resources:iosMain:1.6.10" type="kotlin.native" external-system-id="GRADLE">
+    <properties groupId="org.jetbrains.compose.components" artifactId="components-resources" version="1.6.10" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.components-components-resources-1.6.10-iosMain-mlvQUA.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.components/components-resources/1.6.10/d9adb50d797b390a88f51c9c58fb7356ef9c1028/library-kotlin-1.6.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

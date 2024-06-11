@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.compose.ui:ui-test:uikitMain:1.6.10" type="kotlin.native" external-system-id="GRADLE">
+    <properties groupId="org.jetbrains.compose.ui" artifactId="ui-test" version="1.6.10" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.ui-ui-test-1.6.10-uikitMain-GYRAgA.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.ui/ui-test/1.6.10/6fe2b9f5fa952c723255e22a9f7ad96550dfb3d5/ui-test-1.6.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

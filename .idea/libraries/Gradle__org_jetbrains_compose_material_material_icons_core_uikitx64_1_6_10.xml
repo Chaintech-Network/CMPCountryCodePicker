@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.compose.material:material-icons-core-uikitx64:1.6.10" type="kotlin.native" external-system-id="GRADLE">
+    <properties groupId="org.jetbrains.compose.material" artifactId="material-icons-core-uikitx64" version="1.6.10" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.material/material-icons-core-uikitx64/1.6.10/db72e006b52e4d74b7102a59b5cb0a278707b588/material-icons-core.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.material/material-icons-core-uikitx64/1.6.10/e518df0d8a19c3833f72a24ff667853015e340fd/material-icons-core-uikitx64-1.6.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CMPCountryCodePickerSample.iml" filepath="$PROJECT_DIR$/.idea/modules/CMPCountryCodePickerSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/CMPCountryCodePickerSample.composeApp.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/CMPCountryCodePickerSample.composeApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/CMPCountryCodePickerSample.composeApp.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/CMPCountryCodePickerSample.composeApp.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/CMPCountryCodePickerSample.composeApp.appleMain.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/CMPCountryCodePickerSample.composeApp.appleMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/CMPCountryCodePickerSample.composeApp.appleTest.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/CMPCountryCodePickerSample.composeApp.appleTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/CMPCountryCodePickerSample.composeApp.commonMain.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/CMPCountryCodePickerSample.composeApp.commonMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/CMPCountryCodePickerSample.composeApp.commonTest.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/CMPCountryCodePickerSample.composeApp.commonTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/CMPCountryCodePickerSample.composeApp.iosArm64Main.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/CMPCountryCodePickerSample.composeApp.iosArm64Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/CMPCountryCodePickerSample.composeApp.iosArm64Test.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/CMPCountryCodePickerSample.composeApp.iosArm64Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/CMPCountryCodePickerSample.composeApp.iosMain.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/CMPCountryCodePickerSample.composeApp.iosMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/CMPCountryCodePickerSample.composeApp.iosSimulatorArm64Main.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/CMPCountryCodePickerSample.composeApp.iosSimulatorArm64Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/CMPCountryCodePickerSample.composeApp.iosSimulatorArm64Test.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/CMPCountryCodePickerSample.composeApp.iosSimulatorArm64Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/CMPCountryCodePickerSample.composeApp.iosTest.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/CMPCountryCodePickerSample.composeApp.iosTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/CMPCountryCodePickerSample.composeApp.iosX64Main.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/CMPCountryCodePickerSample.composeApp.iosX64Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/CMPCountryCodePickerSample.composeApp.iosX64Test.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/CMPCountryCodePickerSample.composeApp.iosX64Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/CMPCountryCodePickerSample.composeApp.main.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/CMPCountryCodePickerSample.composeApp.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/CMPCountryCodePickerSample.composeApp.nativeMain.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/CMPCountryCodePickerSample.composeApp.nativeMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/CMPCountryCodePickerSample.composeApp.nativeTest.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/CMPCountryCodePickerSample.composeApp.nativeTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/CMPCountryCodePickerSample.composeApp.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/CMPCountryCodePickerSample.composeApp.unitTest.iml" />
+    </modules>
+  </component>
+</project>

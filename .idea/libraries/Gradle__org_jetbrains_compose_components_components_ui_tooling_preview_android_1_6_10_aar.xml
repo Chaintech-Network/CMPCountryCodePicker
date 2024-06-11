@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.compose.components:components-ui-tooling-preview-android:1.6.10@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/6b5974932fd4cb7a0fc2a34a0705e5aa/transformed/library-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/6b5974932fd4cb7a0fc2a34a0705e5aa/transformed/library-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.components/components-ui-tooling-preview-android/1.6.10/b04f3ee8f5e43fa3b162981b50bb72fe1acabb33/components-ui-tooling-preview-android-1.6.10-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.components/components-ui-tooling-preview-android/1.6.10/5dc49d20e2c19a9b02c4e528ba877067e6f443f9/library-android-1.6.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

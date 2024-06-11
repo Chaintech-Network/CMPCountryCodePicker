@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: network.chaintech:cmp-country-code-picker-android:1.0.0@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/75c7987bef013124084866dfe5e0d955/transformed/cmpcountrycodepicker-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/75c7987bef013124084866dfe5e0d955/transformed/cmpcountrycodepicker-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/network.chaintech/cmp-country-code-picker-android/1.0.0/b5dbac8db6407e5bc9a61cb44960dc501755b5ea/cmp-country-code-picker-android-1.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/network.chaintech/cmp-country-code-picker-android/1.0.0/486b84581eee8302dc32614f1086a1eaf537f07f/cmpcountrycodepicker-android-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

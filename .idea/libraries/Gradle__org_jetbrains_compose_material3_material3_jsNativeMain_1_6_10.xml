@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.compose.material3:material3:jsNativeMain:1.6.10" type="kotlin.common" external-system-id="GRADLE">
+    <properties groupId="org.jetbrains.compose.material3" artifactId="material3" version="1.6.10" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.material3-material3-1.6.10-jsNativeMain-0hrc0g.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.material3/material3/1.6.10/68c416bc2ed2897594151c4b54455aa92d33ce57/material3-1.6.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

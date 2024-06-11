@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.kotlinx:kotlinx-datetime:commonMain:0.5.0" type="kotlin.common" external-system-id="GRADLE">
+    <properties groupId="org.jetbrains.kotlinx" artifactId="kotlinx-datetime" version="0.5.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.kotlinx-kotlinx-datetime-0.5.0-commonMain-iqDvsQ.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-datetime/0.5.0/9d0caf921511b4307bb2e287d046cd2b1fbb3562/kotlinx-datetime-0.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

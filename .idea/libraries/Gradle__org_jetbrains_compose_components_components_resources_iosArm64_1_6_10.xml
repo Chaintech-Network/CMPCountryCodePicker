@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.compose.components:components-resources-iosArm64:1.6.10" type="kotlin.native" external-system-id="GRADLE">
+    <properties groupId="org.jetbrains.compose.components" artifactId="components-resources-iosArm64" version="1.6.10" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.components/components-resources-iosArm64/1.6.10/df3731b290e2bd06eb8487477d1bfb6fa0a94d20/library.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.components/components-resources-iosArm64/1.6.10/5c4b786043e0ed7396fd41c3c4e5952c1387b56e/library-iosarm64-1.6.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

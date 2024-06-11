@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.compose.material:material-ripple-uikitsimarm64:1.6.10" type="kotlin.native" external-system-id="GRADLE">
+    <properties groupId="org.jetbrains.compose.material" artifactId="material-ripple-uikitsimarm64" version="1.6.10" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.material/material-ripple-uikitsimarm64/1.6.10/3384bb56e73f007e0d786d45bb9861e06fbc7f2f/material-ripple.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.material/material-ripple-uikitsimarm64/1.6.10/e4236997504ba42b5ccfa4298dbc257591812037/material-ripple-uikitsimarm64-1.6.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

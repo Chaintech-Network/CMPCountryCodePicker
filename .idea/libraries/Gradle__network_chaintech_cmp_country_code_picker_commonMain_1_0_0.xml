@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: network.chaintech:cmp-country-code-picker:commonMain:1.0.0" type="kotlin.common" external-system-id="GRADLE">
+    <properties groupId="network.chaintech" artifactId="cmp-country-code-picker" version="1.0.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/network.chaintech-cmp-country-code-picker-1.0.0-commonMain-W8vz-w.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/network.chaintech/cmp-country-code-picker/1.0.0/3357b24547cc90741c20d6aa36c46ba11a23dd7a/cmpcountrycodepicker-kotlin-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.compose.foundation:foundation:jsNativeMain:1.6.10" type="kotlin.common" external-system-id="GRADLE">
+    <properties groupId="org.jetbrains.compose.foundation" artifactId="foundation" version="1.6.10" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.foundation-foundation-1.6.10-jsNativeMain-dXXsCQ.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.foundation/foundation/1.6.10/730f2c10b79a25ac1972d67ad43d86f5800efde/foundation-1.6.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
