@@ -27,7 +27,6 @@ import network.chaintech.cmpcountrycodepicker.model.CountryDetails
 import network.chaintech.cmpcountrycodepicker.ui.CountryPicker
 import network.chaintech.cmpcountrycodepicker.ui.CountryPickerBasicTextField
 import network.chaintech.cmpcountrycodepicker.ui.CountryPickerTextField
-import network.chaintech.cmpcountrycodepickerdemo.theme.AppTheme
 
 @Composable
 internal fun App()  {
