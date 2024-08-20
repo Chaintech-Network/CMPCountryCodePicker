@@ -1,4 +1,4 @@
-package network.chaintech.cmpcountrycodepickersample.theme
+package network.chaintech.cmpcountrycodepickerdemo.theme
 
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.LaunchedEffect

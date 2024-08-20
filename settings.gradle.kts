@@ -1,4 +1,4 @@
-rootProject.name = "CMPCountryCodePickerSample"
+rootProject.name = "CMPCountryCodePickerDemo"
 include(":composeApp")
 
 pluginManagement {

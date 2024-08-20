@@ -43,6 +43,14 @@ kotlin {
         }
     }
 
+    jvm {
+        compilations.all {
+            kotlinOptions {
+                jvmTarget = "17"
+            }
+        }
+    }
+
     sourceSets {
         commonMain.dependencies {
             implementation(compose.runtime)
@@ -50,7 +58,7 @@ kotlin {
             implementation(compose.material3)
             implementation(compose.components.resources)
             implementation(compose.components.uiToolingPreview)
-            implementation("network.chaintech:cmp-country-code-picker:1.0.0")
+            implementation(libs.cmp.country.code.picker)
         }
 
         commonTest.dependencies {
@@ -67,18 +75,21 @@ kotlin {
         iosMain.dependencies {
         }
 
+        jvmMain.dependencies {
+            implementation(compose.desktop.currentOs)
+        }
     }
 }
 
 android {
-    namespace = "network.chaintech.cmpcountrycodepickersample"
+    namespace = "network.chaintech.cmpcountrycodepickerdemo"
     compileSdk = 34
 
     defaultConfig {
         minSdk = 24
         targetSdk = 34
 
-        applicationId = "network.chaintech.cmpcountrycodepickersample.androidApp"
+        applicationId = "network.chaintech.cmpcountrycodepickerdemo.androidApp"
         versionCode = 1
         versionName = "1.0.0"
 
@@ -104,7 +115,7 @@ android {
         targetCompatibility = JavaVersion.VERSION_1_8
     }
     buildFeatures {
-        //enables a Compose tooling support in the AndroidStudio
         compose = true
     }
 }
+

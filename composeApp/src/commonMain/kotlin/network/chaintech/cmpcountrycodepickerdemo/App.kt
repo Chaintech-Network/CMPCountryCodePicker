@@ -1,4 +1,4 @@
-package network.chaintech.cmpcountrycodepickersample
+package network.chaintech.cmpcountrycodepickerdemo
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
@@ -27,16 +27,16 @@ import network.chaintech.cmpcountrycodepicker.model.CountryDetails
 import network.chaintech.cmpcountrycodepicker.ui.CountryPicker
 import network.chaintech.cmpcountrycodepicker.ui.CountryPickerBasicTextField
 import network.chaintech.cmpcountrycodepicker.ui.CountryPickerTextField
-import network.chaintech.cmpcountrycodepickersample.theme.AppTheme
+import network.chaintech.cmpcountrycodepickerdemo.theme.AppTheme
 
 @Composable
-internal fun App() = AppTheme {
+internal fun App()  {
     Column(
         modifier = Modifier
             .statusBarsPadding()
             .fillMaxSize()
-            .padding(16.dp)
-            .background(Color.White),
+            .background(Color.White)
+            .padding(16.dp),
         verticalArrangement = Arrangement.Center,
         horizontalAlignment = Alignment.CenterHorizontally
     ) {
@@ -144,3 +144,4 @@ fun CountryPickerText() {
     }
 
 }
+

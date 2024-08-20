@@ -1,16 +1,18 @@
 [versions]
 
+cmpCountryCodePicker = "1.0.1"
 kotlin = "2.0.0"
-compose = "1.6.10"
+compose = "1.6.11"
 agp = "8.2.2"
-androidx-activityCompose = "1.9.0"
-androidx-uiTest = "1.6.7"
+androidx-activityCompose = "1.9.1"
+androidx-uiTest = "1.6.8"
 
 [libraries]
 
 androidx-activityCompose = { module = "androidx.activity:activity-compose", version.ref = "androidx-activityCompose" }
 androidx-testManifest = { module = "androidx.compose.ui:ui-test-manifest", version.ref = "androidx-uiTest" }
 androidx-junit4 = { module = "androidx.compose.ui:ui-test-junit4", version.ref = "androidx-uiTest" }
+cmp-country-code-picker = { module = "network.chaintech:cmp-country-code-picker", version.ref = "cmpCountryCodePicker" }
 
 [plugins]
 
@@ -18,3 +20,5 @@ multiplatform = { id = "org.jetbrains.kotlin.multiplatform", version.ref = "kotl
 compose-compiler = { id = "org.jetbrains.kotlin.plugin.compose", version.ref = "kotlin" }
 compose = { id = "org.jetbrains.compose", version.ref = "compose" }
 android-application = { id = "com.android.application", version.ref = "agp" }
+android-library = { id = "com.android.library", version.ref = "agp" }
+mavenPublish = { id = "com.vanniktech.maven.publish", version = "0.28.0" }

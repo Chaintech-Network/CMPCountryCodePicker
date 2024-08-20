@@ -4,7 +4,7 @@
     <application
         android:name=".AndroidApp"
         android:icon="@android:drawable/ic_menu_compass"
-        android:label="CMPCountryCodePickerSample"
+        android:label="CMPCountryCodePickerDemo"
         android:theme="@android:style/Theme.Material.NoActionBar">
         <activity
             android:name=".AppActivity"

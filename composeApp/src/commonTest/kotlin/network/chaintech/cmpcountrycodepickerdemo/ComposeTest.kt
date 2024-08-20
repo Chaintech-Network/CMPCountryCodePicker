@@ -1,4 +1,4 @@
-package network.chaintech.cmpcountrycodepickersample
+package network.chaintech.cmpcountrycodepickerdemo
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.material3.Button
